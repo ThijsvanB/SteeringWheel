@@ -9,6 +9,7 @@ Functionalities of the first version of the wheel:
 -It must detect how far the wheel is rotated and send this data to the computer.  
 -The structure must stand on its own and be sturdy.  
 -No wires must get stuck while rotating the wheel.  
+-It must not destroy any components or the computer it is connected to, e.g. by frying them
 
 ## Project requirements
 Other requirements:  
